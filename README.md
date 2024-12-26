@@ -1,4 +1,4 @@
-![Screenshot 2024-12-26 210546](https://github.com/user-attachments/assets/e8c47814-66c9-4827-b013-e5b087755de6)
+
 # Role-Based Web Application
 
 A web application with role-based functionality for users and admins, featuring referral management, reward points, and admin request approvals.
