@@ -7,7 +7,7 @@ const adminRouter=require('./router/adminRouter');
 const authMiddleware=require('./middleware');
 const app=express();
 app.use(cors({
-    origin: 'http://localhost:3000',
+    origin: ['http://localhost:3000','https://vozi-task.vercel.app'],
     methods: ['GET', 'POST','DELETE','PUT'],
 }))
 dotenv.config();
