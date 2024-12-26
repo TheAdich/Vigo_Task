@@ -1,3 +1,4 @@
+![Screenshot 2024-12-26 210546](https://github.com/user-attachments/assets/e8c47814-66c9-4827-b013-e5b087755de6)
 # Role-Based Web Application
 
 A web application with role-based functionality for users and admins, featuring referral management, reward points, and admin request approvals.
@@ -52,3 +53,9 @@ A web application with role-based functionality for users and admins, featuring 
 - **email**:adidadhich2003@gmail.com
 - **password**:123456
 - **referal code for the above admin**:2577915b-6b4e-4fb4-832f-11516600d549
+### Attaching src of the web app
+![Screenshot 2024-12-26 210647](https://github.com/user-attachments/assets/ade37258-9594-43b4-8f08-b9a14e409e70)
+![Screenshot 2024-12-26 210613](https://github.com/user-attachments/assets/4927d8c4-2041-49f7-b271-0facb4df810f)
+![Screenshot 2024-12-26 210546](https://github.com/user-attachments/assets/cf018bb7-da97-40ff-91ef-4fca5cb5011a)
+
+
