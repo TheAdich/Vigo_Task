@@ -21,11 +21,7 @@ const Login = () => {
   const [isLoading, setIsLoading] = useState(false);
 
   // Ensure client-side-only logic
-  useEffect(() => {
-    if (safeLocalStorage.getItem('token')) {
-      router.push('/dashboard'); 
-    }
-  }, []);
+  
 
   const handleChange = (e) => {
     const { name, value } = e.target;
