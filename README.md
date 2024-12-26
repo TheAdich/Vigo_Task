@@ -48,3 +48,7 @@ A web application with role-based functionality for users and admins, featuring 
 - **Server Setup**: Express.js with middleware for CORS and JSON parsing.
 
 ---
+##Credential To Check
+-email:adidadhich2003@gmail.com
+-password:123456
+-referal code for the above admin:2577915b-6b4e-4fb4-832f-11516600d549
